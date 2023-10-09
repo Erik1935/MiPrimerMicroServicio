@@ -8,11 +8,13 @@
 		<version>3.0.11</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<groupId>com.erik1935</groupId>
 	<artifactId>Microservicios</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Microservicios</name>
 	<packaging>pom</packaging>
+
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<maven.compiler.source>17</maven.compiler.source>
